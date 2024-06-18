@@ -1,4 +1,4 @@
-Goblin from Clash Royal Page
+Goblin from Clash Royale - Simple Page
 
 Link: https://gustadev90.github.io/Goblin/
 
